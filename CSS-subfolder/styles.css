@@ -1,0 +1,20 @@
+body {
+  background-color: #417dd8
+}
+p.imprtant {
+  font-size: 2em;
+  font-weight: 900;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1.important {
+  font-family: “Trebuchet MS”, Helvetica, sans-serif;
+  font-size: 2em;
+  color: green;
+}
+.typewriter {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.emphasized {
+  font-style: italic;
+}
